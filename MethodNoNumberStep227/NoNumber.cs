@@ -8,7 +8,7 @@ namespace MethodNoNumberStep227
 {
     class NoNumber
     {
-        public void NoIntOption(int required, int optionalint)
+        public void NoIntOption(int required, int optionalint = 2)
         {
             Console.WriteLine(required + optionalint);
 

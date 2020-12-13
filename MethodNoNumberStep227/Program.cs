@@ -26,7 +26,7 @@ namespace MethodNoNumberStep227
             }
             else
             {
-                someNumber.NoIntOption(oneNum, 0);
+                someNumber.NoIntOption(oneNum);
             }
             Console.ReadLine();
         }
